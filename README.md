@@ -39,6 +39,7 @@ Watch the simulator in action and see the 'Vibe Coding' development process in t
    pip install numpy matplotlib
 3. **Run the script:**
    ```bash
+   python 5-Bar Linkage.py
 
 ### 🌐 Multi-Language Support (20 Languages)
 
