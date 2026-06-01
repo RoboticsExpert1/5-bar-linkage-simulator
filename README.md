@@ -39,8 +39,31 @@ Watch the simulator in action and see the 'Vibe Coding' development process in t
    pip install numpy matplotlib
 3. **Run the script:**
    ```bash
-   python 5-Bar Linkage.py
 
----
+### 🌐 Multi-Language Support (20 Languages)
+
+To support engineers, educators, and creators worldwide, this content provides both **Voiceovers and Subtitles in 20 different languages**. 
+
+You can easily adjust the audio track and subtitle settings in the YouTube player to watch in your preferred language:
+
+* **Dutch** (Nederlands)
+* **German** (Deutsch)
+* **Russian** (Русский)
+* **Vietnamese** (Tiếng Việt)
+* **Bengali** (বাংলা)
+* **Spanish** (Español)
+* **Arabic** (العربية)
+* **English**
+* **Ukrainian** (Українська)
+* **Italian** (Italiano)
+* **Indonesian** (Bahasa Indonesia)
+* **Japanese** (日本語)
+* **Chinese (Traditional)** (繁體中文)
+* **Thai** (ไทย)
+* **Turkish** (Türkçe)
+* **Portuguese** (Português)
+* **Polish** (Polski)
+* **French** (Français)
+* **Hindi** (हिन्दी)
 **Author:** **SUCHEOL LEE** (Lee Sucheol Robotics Lab.)  
 **Expertise:** Robotic Mechanism Design, Kinematics, CAD 19+ Years
