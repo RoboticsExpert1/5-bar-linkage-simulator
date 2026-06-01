@@ -66,5 +66,7 @@ You can easily adjust the audio track and subtitle settings in the YouTube playe
 * **Polish** (Polski)
 * **French** (Français)
 * **Hindi** (हिन्दी)
+
+> 
 **Author:** **SUCHEOL LEE** (Lee Sucheol Robotics Lab.)  
 **Expertise:** Robotic Mechanism Design, Kinematics, CAD 19+ Years
